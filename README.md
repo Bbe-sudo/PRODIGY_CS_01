@@ -21,7 +21,9 @@ The user can input a message, a shift value, and select whether to perform encry
 - Handling user input and control flow in a console program 
 
 ## Output 
-Caesar Cipher Encryption & Decryption
+<pre> ```Caesar Cipher Encryption & Decryption ===
 Enter your message: hello world
-Enter shift value (e.g., 3): 5
+Enter shift value (e.g., 3): 4
 Choose mode (encrypt/decrypt): encrypt
+
+Your encrypted message: lipps asvph``` </pre>
