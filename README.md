@@ -1,7 +1,5 @@
 # PRODIGY_CS_01
 Cyber Security Internship Task 1 – Prodigy InfoTech 
-Intern: Stephany
-Duration: October 2025 
 
 Task Overview
 Create a Python program that encrypts and decrypts text using the **Caesar Cipher algorithm**.  
